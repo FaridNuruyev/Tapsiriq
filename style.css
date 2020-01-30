@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding:0;
+    list-style-type: none;
+    text-decoration: none;
+    
+}
+.container{
+
+    margin-top: 15px;
+}
+.leftpart{
+    border:1px solid black;
+    width: 350px;
+    height: 1362px;
+    background-color:burlywood;
+    padding-top: 40px;
+    padding-left: 40px;
+    float: left;
+    font-size: x-large;
+    font-style: italic;
+    
+}
+.leftpart >ul>li>a{
+    color: black;
+   
+}
+     #Home {
+    border:1px solid black;
+    width: 949px;
+    height: 700px;
+    background-color: red;
+    float: left;
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+    
+
+}
+#About{ 
+    border:1px solid black;
+    width: 949px;
+    height: 700px;
+    background-color:blue;
+    float: left;
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+    
+}
